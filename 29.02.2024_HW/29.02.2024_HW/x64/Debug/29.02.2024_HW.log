@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Макс\Desktop\29.02.2024_HW\29.02.2024_HW\Main.cpp(22,12): warning C4244: 'return': conversion from 'INT_PTR' to 'int', possible loss of data
+  
+29.02.2024_HW.rc(144): error RC2135: file not found: D:\
